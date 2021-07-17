@@ -1839,7 +1839,7 @@ input, select, textarea {
 
 				#nav a span:after {
 					content: '';
-					display: block;
+					display: inline;
 					position: absolute;
 					bottom: -0.4em;
 					left: 50%;
