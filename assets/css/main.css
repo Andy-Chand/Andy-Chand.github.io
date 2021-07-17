@@ -1779,7 +1779,7 @@ input, select, textarea {
 
 		#nav a {
 			position: relative;
-			display: inline;
+			display: block;
 			color: #ffffff;
 			width: 1em;
 			height: 1em;
@@ -1804,7 +1804,7 @@ input, select, textarea {
 
 			#nav a:after {
 				content: '';
-				display: inline;
+				display: block;
 				position: absolute;
 				left: 50%;
 				bottom: -0.75em;
@@ -1819,7 +1819,7 @@ input, select, textarea {
 			}
 
 			#nav a span {
-				display: inline;
+				display: block;
 				position: absolute;
 				background: #222222;
 				color: #ffffff;
@@ -1839,7 +1839,7 @@ input, select, textarea {
 
 				#nav a span:after {
 					content: '';
-					display: inline;
+					display: block;
 					position: absolute;
 					bottom: -0.4em;
 					left: 50%;
