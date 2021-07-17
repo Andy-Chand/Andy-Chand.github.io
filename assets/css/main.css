@@ -1779,7 +1779,7 @@ input, select, textarea {
 
 		#nav a {
 			position: relative;
-			display: inline-block;
+			display: inline;
 			color: #ffffff;
 			width: 1em;
 			height: 1em;
@@ -1804,7 +1804,7 @@ input, select, textarea {
 
 			#nav a:after {
 				content: '';
-				display: block;
+				display: inline;
 				position: absolute;
 				left: 50%;
 				bottom: -0.75em;
